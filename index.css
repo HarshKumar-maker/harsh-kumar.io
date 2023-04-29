@@ -8,7 +8,7 @@ body , html {
     
     body {
     background-size: cover;
-    overflow: scroll;
+    overflow: absolute;
     height: 100%;
     }
     
